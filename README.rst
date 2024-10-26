@@ -1,16 +1,17 @@
 Django Commflex Library
-=======================
+------------------------
 
 A flexible and reliable Django library for sending SMS messages through multiple providers with built-in retry capabilities.
 
 Key Features
------------
+------------
+
 - Multiple SMS provider support (AWS SNS and AIT)
 - Automatic phone number validation
 - Configurable retry mechanism with exponential backoff
 
 Quick Start
-----------
+-----------
 
 1. Install the package:
 
@@ -58,7 +59,7 @@ Quick Start
       send_sms(phone_number, message)
 
 Supported Providers
------------------
+-------------------
 
 AWS SNS
 ~~~~~~~

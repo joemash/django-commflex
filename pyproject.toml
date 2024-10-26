@@ -5,7 +5,7 @@ build-backend = "hatchling.build"
 [project]
 name = "django-commflex"
 version = "1.0.1"
-description = "Provides flexibility of sending messages across multiple channels."
+description = "Provides flexibility of sending messages across multiple channels"
 readme = "README.rst"
 authors = [
     {name = "Josephat Macharia", email = "josemash4@gmail.com"},
